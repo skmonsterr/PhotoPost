@@ -14,9 +14,11 @@ exports[`<Posts /> should match snapshot 1`] = `
     <div
       class="post-content"
     >
-      <h1>
+      <h2>
         title 1
-      </h1>
+         
+        1
+      </h2>
       <p>
         body 1
       </p>
@@ -32,9 +34,11 @@ exports[`<Posts /> should match snapshot 1`] = `
     <div
       class="post-content"
     >
-      <h1>
+      <h2>
         title 2
-      </h1>
+         
+        2
+      </h2>
       <p>
         body 2
       </p>
@@ -50,9 +54,11 @@ exports[`<Posts /> should match snapshot 1`] = `
     <div
       class="post-content"
     >
-      <h1>
+      <h2>
         title 3
-      </h1>
+         
+        3
+      </h2>
       <p>
         body 3
       </p>
